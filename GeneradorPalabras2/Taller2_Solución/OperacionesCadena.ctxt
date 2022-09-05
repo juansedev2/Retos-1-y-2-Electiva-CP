@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=OperacionesCadena
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ OperacionesCadena\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=OperacionesCadena()
+comment1.text=\r\n\ \ \ \ constructor\ que\ inicializa\ la\ cadena\ con\ un\ espacio\ en\ blanco\r\n
+comment2.params=cadena
+comment2.target=OperacionesCadena(java.lang.String)
+comment2.text=\r\n\ \ \ \ Constructor\ que\ permite\ crear\ cadenas\ @param\ cadena\r\n
+comment3.params=cadena
+comment3.target=void\ setCadena(java.lang.String)
+comment3.text=\r\n\ \ \ \ M\u00E9todo\ que\ actualiza\ el\ contenido\ de\ la\ cadena\r\n\r\n\ \ \ \ @param\ cadena\r\n
+comment4.params=
+comment4.target=java.lang.String\ getCadena()
+comment4.text=\r\n\ \ \ \ M\u00E9todo\ que\ retorna\ el\ valor\ de\ la\ cadena.\ @return\ cadena\r\n
+comment5.params=
+comment5.target=java.lang.String\ InvertirCadena()
+comment5.text=\r\n\r\n\ M\u00E9todo\ que\ convierte\ y\ retorna\ la\ cadena\ invertida\ \r\n\r\n
+comment6.params=cadena
+comment6.target=int\ contarVocales(java.lang.String)
+comment6.text=\r\n\ M\u00E9todo\ que\ cuenta\ el\ total\ de\ vocales\r\n
+comment7.params=cadena
+comment7.target=boolean\ esPalindromo(java.lang.String)
+comment7.text=\r\n\ Metodo\ que\ verifica\ si\ la\ palabra\ se\ lee\ igual\ al\ leerla\ al\ derecho\ y\ alrev\u00E9s\r\n
+numComments=8

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TestOperacionesCadena
+comment1.params=
+comment1.target=TestOperacionesCadena()
+comment2.params=cadena
+comment2.target=void\ leerCadena(java.lang.String)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
